@@ -1,1 +1,1 @@
-# Interdisciplinary-Health-Data-Competition
+# Interdisciplinary Health Data Competition
