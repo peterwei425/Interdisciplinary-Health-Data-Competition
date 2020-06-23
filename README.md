@@ -5,7 +5,11 @@ I partnered with 2 PHD students from Medical School and two classmates from my M
 
 ## Project Overview 
 
-Through exploratory data analysis, our team discovered the disparity between high occurrence of cardiovascular disease and its low insurance coverage based on 2 years’ drug and prescription data. We then provided policy recommendations which potentially bring $14.2M net savings for the Minnesota Government though a cost-benefit analysis. 
+Through exploratory data analysis, our team discovered the disparity between high occurrence of cardiovascular disease and its low insurance coverage based on 2 years’ drug and prescription data. 
+
+![](Photos/cardio.png)
+
+We then provided policy recommendations which potentially bring $14.2M net savings for the Minnesota Government though a cost-benefit analysis. 
 
 ## Datasets
 
