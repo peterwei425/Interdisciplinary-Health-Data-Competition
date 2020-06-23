@@ -5,9 +5,10 @@ I partnered with 2 PHD students from Medical School and two classmates from my M
 
 ## Project Overview 
 
-Through exploratory data analysis, our team discovered the disparity between high occurrence of cardiovascular disease and its low insurance coverage based on 2 years’ drug and prescription data. 
+Through exploratory data analysis, our team discovered the disparity between high occurrence of cardiovascular disease and its low insurance coverage in both 2012 and 2016. There were there were approximately 12 million prescriptions for cardiovascular disease agents far and above the most prescribed compared to other therapeutic classes, but also the least covered. This is illustrated in the graph below showing coverage vs prescriptions where cardiovascular disease agents stand alone. 
 
-![](Photos/cardio_2016.png)
+
+![](Photos/cardio_2016.png){:height="50%" width="50%"}
 
 We then provided policy recommendations which potentially bring $14.2M net savings for the Minnesota Government though a cost-benefit analysis. 
 
