@@ -3,9 +3,14 @@
 ## Introduction 
 I partnered with 2 PHD students from Medical School and two classmates from my MSBA program at University of Minnesota to participate [the First Interdisciplinary Health Data Competition](https://carlsonschool.umn.edu/health-data-competition) in 2020. The goal of the competition was to promote interdisciplinary dialogue around real-world healthcare challenges and for students to provide innovative solutions using data science tools and methodologies. Our team completed an exploratory analysis of newly released prescription drug use and cost data from the Minnesota Department of Health’s Minnesota All Payer Claims Database. 
 
+
 ## Related files
 
 The code for data cleaning can be found [here](https://github.com/peterwei425/Interdisciplinary-Health-Data-Competition/blob/master/Date_Cleaning.ipynb). The R code for performing data analysis can be found [here](https://github.com/peterwei425/Interdisciplinary-Health-Data-Competition/blob/master/Prescription_EDA.R). The final presentation can be found [here](https://github.com/peterwei425/Interdisciplinary-Health-Data-Competition/blob/master/Final%20Presentation.pptx). 
+
+## Datasets
+
+The Heath Data Competition dataset is provided by the Minnesota Department of Health's Minnesota All Payer Claims Database, a data system authorized by the legislature for health policy development in Minnesota.  The healthcare claims data is from medical providers' billing records sent to insurance companies, plan administrators and public payers.  To learn more about the MN All Payer Claims Database, visit their [website](https://www.health.state.mn.us/data/apcd/index.html).
 
 ## Project Overview 
 
@@ -15,10 +20,6 @@ Through exploratory data analysis, our team discovered the disparity between hig
 ![](Photos/cardio_2016.png)
 
 We then provided policy recommendations which potentially bring $14.2M net savings for the Minnesota Government though a cost-benefit analysis. 
-
-## Datasets
-
-The Heath Data Competition dataset is provided by the Minnesota Department of Health's Minnesota All Payer Claims Database, a data system authorized by the legislature for health policy development in Minnesota.  The healthcare claims data is from medical providers' billing records sent to insurance companies, plan administrators and public payers.  To learn more about the MN All Payer Claims Database, visit their [website](https://www.health.state.mn.us/data/apcd/index.html).
 
 
 
