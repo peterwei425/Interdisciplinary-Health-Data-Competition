@@ -17,5 +17,5 @@ We then provided policy recommendations which potentially bring $14.2M net savin
 The Heath Data Competition dataset is provided by the Minnesota Department of Health's Minnesota All Payer Claims Database, a data system authorized by the legislature for health policy development in Minnesota.  The healthcare claims data is from medical providers' billing records sent to insurance companies, plan administrators and public payers.  To learn more about the MN All Payer Claims Database, visit their [website](https://www.health.state.mn.us/data/apcd/index.html).
 
 
-Team: [Boyang Wei](https://github.com/peterwei425), [William Wu](https://www.linkedin.com/in/william-wu43/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACLTc4oBtAplB1-b21CvsiaU0KFQ3M_Xuyg), [Lauren Moore](https://www.linkedin.com/in/lnmoore/), Paul Cho, Ben Byun. 
+Team: Ben Byun, [Boyang Wei](https://github.com/peterwei425), [Lauren Moore](https://www.linkedin.com/in/lnmoore/), Paul Cho, [William Wu](https://www.linkedin.com/in/william-wu43/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACLTc4oBtAplB1-b21CvsiaU0KFQ3M_Xuyg). 
 
