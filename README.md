@@ -10,7 +10,7 @@ The code for data cleaning can be found [here](https://github.com/peterwei425/In
 
 ## Datasets
 
-The Heath Data Competition dataset is provided by the Minnesota Department of Health's Minnesota All Payer Claims Database, a data system authorized by the legislature for health policy development in Minnesota.  The healthcare claims data is from medical providers' billing records sent to insurance companies, plan administrators and public payers.  To learn more about the MN All Payer Claims Database, visit their [website](https://www.health.state.mn.us/data/apcd/index.html).
+The Heath Data Competition dataset is provided by the Minnesota Department of Health's Minnesota All Payer Claims Database, a data system authorized by the legislature for health policy development in Minnesota.  The healthcare claims data is from medical providers' billing records sent to insurance companies, plan administrators and public payers.  Data for drug details can be found [here](https://github.com/peterwei425/Interdisciplinary-Health-Data-Competition/blob/master/Data/DrugDetailMerged.xlsx). Data for drug summary can be found [here](https://github.com/peterwei425/Interdisciplinary-Health-Data-Competition/blob/master/Data/SummaryMerged.xlsx). To learn more about the MN All Payer Claims Database, visit their [website](https://www.health.state.mn.us/data/apcd/index.html).
 
 ## Project Overview 
 
